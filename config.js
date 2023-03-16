@@ -14,7 +14,7 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://api.zahwazein.xyz': 'Your Key',
+	'https://api.zahwazein.xyz': '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',
 }
 
 // Other
